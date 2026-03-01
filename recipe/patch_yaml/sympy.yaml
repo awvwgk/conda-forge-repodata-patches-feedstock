@@ -1,3 +1,4 @@
+# https://github.com/conda-forge/sympy-feedstock/issues/67
 if:
   name: sympy
   version_le: 1.14.0
